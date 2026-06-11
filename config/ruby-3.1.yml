@@ -9,3 +9,6 @@ Style/DataInheritance:
 Style/ArgumentsForwarding:
   Enabled: false
   AllowOnlyRestArgument: true
+
+Style/RedundantStructKeywordInit:
+  Enabled: false
