@@ -11,3 +11,6 @@ Style/NumberedParametersLimit:
 
 Lint/DuplicateMatchPattern:
   Enabled: false
+
+Style/TallyMethod:
+  Enabled: false
