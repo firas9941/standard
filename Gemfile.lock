@@ -14,7 +14,7 @@ GEM
     ast (2.4.3)
     docile (1.4.0)
     json (2.19.2)
-    language_server-protocol (3.17.0.5)
+    language_server-protocol (3.17.0.6)
     lint_roller (1.1.0)
     logger (1.7.0)
     m (1.7.0)
