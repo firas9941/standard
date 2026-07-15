@@ -1,3 +1,3 @@
 module Standard
-  VERSION = Gem::Version.new("1.55.0")
+  VERSION = Gem::Version.new("1.56.0")
 end
